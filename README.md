@@ -75,3 +75,4 @@ This is  a comprehensive stopwords for natural language processing and text mini
 ## Related Repository
 * [persian-stop-word](https://github.com/amirshnll/persian-stop-word/)
 * [stopwords-json](https://github.com/6/stopwords-json)
+* [stopwords_guilannlp](https://github.com/JoyeBright/stopwords_guilannlp)
